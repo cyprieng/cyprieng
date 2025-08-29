@@ -28,9 +28,9 @@ _Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breako
 ### ✏️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Easily publish your Obsidian notes through GitHub](https://www.cyprien.io/posts/obsidian-github-publisher/)
 - [My 6 months review of Kagi](https://www.cyprien.io/posts/kagi/)
 - [Working with a VR headset](https://www.cyprien.io/posts/vr/)
 - [2024 Review](https://www.cyprien.io/posts/2024/)
 - [Building my small Homelab](https://www.cyprien.io/posts/homelab/)
-- [How I Built My Corner of the Web](https://www.cyprien.io/posts/colophon/)
 <!-- BLOG-POST-LIST:END -->
